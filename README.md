@@ -1,0 +1,1 @@
+# Dynatrace-Log-Security-Rules-Checker
